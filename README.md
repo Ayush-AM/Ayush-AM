@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Stationary-X](https://github.com/aeonstechdevops/StationaryX-App)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-vasv.vercel.app/](https://portfolio-vasv.vercel.app/)
+- 👨‍💻 My Portfolio  - [https://ayush-portffolio.vercel.app/](https://ayush-portffolio.vercel.app/)
 
 - 💬 Ask me about **React, C++, ML**
 
