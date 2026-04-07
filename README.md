@@ -5,15 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=ayush-am&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-am" /> 
 </p>
 
-- 🔭 I’m currently working on [Blockchain-Secure-Traveler](https://github.com/AnkushUjawane/Blockchain-Secure-Traveler)
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on [Stationary-X](https://github.com/aeonstechdevops/StationaryX-App)
 
 - 👨‍💻 My Portfolio  - [https://ayush-portffolio.vercel.app/](https://ayush-portffolio.vercel.app/)
-
-- 💬 Ask me about **React, C++, ML**
 
 - 📫 How to reach me **arpitmahajan856@gmail.com**
 
