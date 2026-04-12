@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **arpitmahajan856@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1iQw-qD9i_7DEvRbYXIrVh_rAlrXC6rLi/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/17UB3pTT8Q6je5T4dFN2BG4pgSvBc113w/view?usp=sharing)
 
 - ⚡ Fact **I am Enthusiast**
 
