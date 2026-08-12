@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mahajan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-AM)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/Ayush-AM)
 
 ---
 
@@ -109,10 +108,10 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📱 PhonePad Wireless Trackpad</h3>
-      <p align="center">Wireless trackpad and mouse server allowing smartphones to control Windows PCs seamlessly over local Wi-Fi.</p>
+      <h3 align="center">📊 DSA Analyzer</h3>
+      <p align="center">Interactive TypeScript application for analyzing algorithm time and space complexity in real-time.</p>
       <p align="center">
-        <a href="https://github.com/Ayush-AM/phonepad">
+        <a href="https://github.com/Ayush-AM/DSA-Analyzer">
           <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
@@ -139,12 +138,11 @@
 
 ---
 
-## 📈 GitHub Telemetry & Stats
+## 📈 Activity & Contribution Matrix
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayush-AM&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=E6EDF3" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-AM&theme=cyberpunk&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-AM&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
