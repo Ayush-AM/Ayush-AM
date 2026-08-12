@@ -19,16 +19,15 @@
 
 </div>
 
-## System Architecture & Details
+## About & System Details
 
-```gcode
-SYSTEM CONFIGURATION:
-+ Engineer: Ayush Mahajan
-+ Core Domain: AI Engineering, Autonomous Multi-Agent Systems & Full-Stack Development
-+ AI & ML Stack: LangChain | RAG Architectures | Multi-Agent Orchestration | Groq API | OpenAI API
-+ Full-Stack: React | TypeScript | FastAPI | Flask | C++ | Python 3.11 | Docker | PostgreSQL
-+ Open Source: Contributor to CNCF, Linux Foundation, Open Mainframe & Hyperledger
-```
+* **Engineer**: Ayush Mahajan
+* **Email**: `ayushmahajan@gmail.com`
+* **Core Domain**: AI Engineering, Autonomous Multi-Agent Systems & Full-Stack Development
+* **AI & ML Stack**: LangChain | RAG Architectures | Multi-Agent Orchestration | Groq API | OpenAI API
+* **Full-Stack Stack**: React | TypeScript | FastAPI | Flask | C++ | Python 3.11 | Docker | PostgreSQL
+* **Open Source**: Active Contributor to CNCF, Linux Foundation, Open Mainframe & Hyperledger
+* **Profiles**: [LinkedIn](https://linkedin.com/in/ayush-mahajan-856) • [GitHub](https://github.com/Ayush-AM) • [LeetCode](https://leetcode.com/ayush_mahajan)
 
 ---
 
