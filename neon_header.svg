@@ -1,8 +1,8 @@
-<svg fill="none" width="850" height="230" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="850" height="240" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Multi-Layer Orange Neon Glow Filter -->
     <filter id="neon-glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="6" result="blur1" />
+      <feGaussianBlur stdDeviation="5" result="blur1" />
       <feGaussianBlur stdDeviation="2" result="blur2" />
       <feMerge>
         <feMergeNode in="blur1" />
@@ -49,6 +49,21 @@
       letter-spacing: 5px;
     }
 
+    .role-title {
+      font-family: 'Fira Code', 'Consolas', monospace;
+      font-size: 15px;
+      font-weight: 700;
+      fill: #FF9900;
+      letter-spacing: 2px;
+    }
+
+    .details-text {
+      font-family: 'Consolas', monospace;
+      font-size: 12.5px;
+      fill: #9ca3af;
+      letter-spacing: 1px;
+    }
+
     .hud-line { stroke: #ff7700; stroke-width: 2; opacity: 0.8; }
     .hud-text { font-family: 'Consolas', monospace; font-size: 10px; fill: #ff7700; opacity: 0.7; letter-spacing: 1px; }
 
@@ -74,45 +89,42 @@
   </style>
 
   <!-- Main Background Panel -->
-  <rect width="850" height="230" class="bg" />
+  <rect width="850" height="240" class="bg" />
 
   <!-- Cyber Grid Overlay -->
-  <rect width="850" height="230" fill="url(#cyber-grid)" rx="14" />
+  <rect width="850" height="240" fill="url(#cyber-grid)" rx="14" />
 
   <!-- Animated Orange Neon Laser Sweep Bar (Top & Bottom) -->
   <g class="laser-line">
     <rect x="0" y="2" width="280" height="3" fill="url(#laser-grad)" filter="url(#neon-glow)" />
-    <rect x="0" y="225" width="280" height="3" fill="url(#laser-grad)" filter="url(#neon-glow)" />
+    <rect x="0" y="235" width="280" height="3" fill="url(#laser-grad)" filter="url(#neon-glow)" />
   </g>
 
   <!-- Sci-Fi HUD Corner Brackets -->
   <path d="M 20 35 L 20 20 L 35 20" class="hud-line" />
   <path d="M 830 35 L 830 20 L 815 20" class="hud-line" />
-  <path d="M 20 195 L 20 210 L 35 210" class="hud-line" />
-  <path d="M 830 195 L 830 210 L 815 210" class="hud-line" />
+  <path d="M 20 205 L 20 220 L 35 220" class="hud-line" />
+  <path d="M 830 205 L 830 220 L 815 220" class="hud-line" />
 
   <!-- HUD Technical Labels -->
   <text x="38" y="32" class="hud-text">SYS.VER: 4.2.0 // AM-CORE</text>
   <text x="812" y="32" text-anchor="end" class="hud-text">LOC: GLOBAL.NODE</text>
 
-  <!-- Main Title -->
-  <g transform="translate(425, 68)">
+  <!-- Main Title & System Details -->
+  <g transform="translate(425, 75)">
     <text x="0" y="0" text-anchor="middle" class="title">AYUSH MAHAJAN</text>
-  </g>
-
-  <!-- Dynamic Orange Neon Typing Animation -->
-  <g transform="translate(100, 85)">
-    <image href="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=FFA500&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;lines=AI+Engineer+%26+Systems+Architect;Autonomous+Multi-Agent+Developer;Full-Stack+Web3+%26+RAG+Specialist;Open-Source+Contributor" width="650" height="50" />
+    <text x="0" y="32" text-anchor="middle" class="role-title">AI ENGINEER &amp; FULL-STACK SYSTEMS ARCHITECT</text>
+    <text x="0" y="58" text-anchor="middle" class="details-text">Autonomous Multi-Agent Networks  |  RAG Core  |  Open-Source Contributor</text>
   </g>
 
   <!-- Sci-Fi Status Console -->
-  <g transform="translate(425, 185)">
-    <rect x="-260" y="-14" width="520" height="28" rx="14" fill="#0d111a" stroke="#FF5500" stroke-width="1.2" />
+  <g transform="translate(425, 195)">
+    <rect x="-270" y="-14" width="540" height="28" rx="14" fill="#0d111a" stroke="#FF5500" stroke-width="1.2" />
     
     <!-- Blinking Pulse Indicator Dot -->
-    <circle cx="-238" cy="0" r="4" fill="#00FF88" class="pulse-dot" filter="url(#neon-glow)" />
+    <circle cx="-248" cy="0" r="4" fill="#00FF88" class="pulse-dot" filter="url(#neon-glow)" />
     
-    <text x="0" y="4" text-anchor="middle" font-family="Consolas, monospace" font-size="11.5" fill="#FFA500" font-weight="bold">
+    <text x="0" y="4" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#FFA500" font-weight="bold">
       [ STATUS: ONLINE ]  •  [ SYSTEM: MULTI-AGENT &amp; RAG CORE ]  •  [ OS: ACTIVE ]
     </text>
   </g>
