@@ -1,10 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Ayush Mahajan 👋
+# ⚡ AYUSH MAHAJAN ⚡
 
-### 🚀 AI Engineer & Full-Stack Developer | Open-Source Contributor
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=AI+Engineer+%26+Systems+Architect;Autonomous+Multi-Agent+Developer;Full-Stack+Web3+%26+RAG+Specialist;Open-Source+Contributor" alt="Typing SVG" />
+</a>
 
-Driven by building intelligent, scalable AI systems, multi-agent frameworks, and high-performance full-stack applications.
+<br/>
+
+> 🚀 *Driven by building intelligent, scalable AI systems, multi-agent frameworks, and high-performance full-stack applications.*
 
 <br/>
 
@@ -15,7 +19,20 @@ Driven by building intelligent, scalable AI systems, multi-agent frameworks, and
 
 </div>
 
-## 🛠️ Tech Stack & Skills
+## 🌌 System Architecture & Capabilities
+
+```gcode
+⚡ INITIALIZING SYSTEM CONFIGURATION...
+├─ 🤖 AI & ML: LangChain • RAG • Multi-Agent Networks • Groq • OpenAI API
+├─ 💻 Frontend: React • TypeScript • Tailwind CSS • Next.js • Vite
+├─ ⚙️ Backend: FastAPI • Flask • Python 3.11 • Node.js • Express
+├─ 🛡️ Core & Systems: C++ • RISC-V • Blockchain • PostgreSQL • Docker
+└─ 🌐 Open Source: Active Contributor to CNCF, Linux Foundation & Open Mainframe
+```
+
+---
+
+## 🛠️ Cybernetic Tech Matrix
 
 <div align="center">
 
@@ -25,7 +42,7 @@ Driven by building intelligent, scalable AI systems, multi-agent frameworks, and
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **AI, Frameworks & Infrastructure**
+### **AI, Frameworks & Cloud Infrastructure**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -38,7 +55,7 @@ Driven by building intelligent, scalable AI systems, multi-agent frameworks, and
 
 ---
 
-## ⭐ Featured Projects
+## 💎 Flagship Innovations
 
 <table>
   <tr>
@@ -122,7 +139,7 @@ Driven by building intelligent, scalable AI systems, multi-agent frameworks, and
 
 ---
 
-## 📈 Activity & Contributions
+## 📈 Activity & Contribution Matrix
 
 <div align="center">
 
@@ -133,5 +150,6 @@ Driven by building intelligent, scalable AI systems, multi-agent frameworks, and
 ---
 
 <div align="center">
+  <p><i>"The best way to predict the future is to invent it."</i></p>
   <p>✨ Built & Maintained by <b>Ayush Mahajan</b> ✨</p>
 </div>
