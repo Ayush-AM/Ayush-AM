@@ -1,15 +1,9 @@
 <div align="center">
 
-# AYUSH MAHAJAN
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=AI+Engineer+%26+Systems+Architect;Autonomous+Multi-Agent+Developer;Full-Stack+Web3+%26+RAG+Specialist;Open-Source+Contributor" alt="Typing SVG" />
-</a>
+<!-- Animated Orange Neon Laser Header -->
+<img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/neon_header.svg" alt="Ayush Mahajan Orange Neon Header" width="100%" />
 
 <br/>
-
-> *Driven by building intelligent, scalable AI systems, multi-agent frameworks, and high-performance full-stack applications.*
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mahajan-856)
@@ -18,18 +12,6 @@
 ---
 
 </div>
-
-## System Capabilities
-
-```gcode
-SYSTEM INITIALIZATION:
-+ AI & ML: LangChain | RAG | Multi-Agent Networks | Groq | OpenAI API
-+ Frontend: React | TypeScript | Tailwind CSS | Next.js | Vite
-+ Backend: FastAPI | Flask | Python 3.11 | Node.js | Express
-+ Core & Systems: C++ | RISC-V | Blockchain | PostgreSQL | Docker
-```
-
----
 
 ## Tech Stack & Skills
 
