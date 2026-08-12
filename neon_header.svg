@@ -1,13 +1,20 @@
-<svg fill="none" width="850" height="210" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="850" height="230" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Orange Neon Glow Filter -->
-    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
+    <!-- Multi-Layer Orange Neon Glow Filter -->
+    <filter id="neon-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur1" />
+      <feGaussianBlur stdDeviation="2" result="blur2" />
       <feMerge>
-        <feMergeNode in="blur" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="blur2" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
+
+    <!-- Cyber Grid Pattern -->
+    <pattern id="cyber-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ff6b00" stroke-width="0.3" stroke-opacity="0.15" />
+    </pattern>
 
     <!-- Moving Laser Light Gradient -->
     <linearGradient id="laser-grad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -15,62 +22,98 @@
       <stop offset="50%" stop-color="#FF7700" stop-opacity="1" />
       <stop offset="100%" stop-color="#FFCC00" stop-opacity="0" />
     </linearGradient>
-    
-    <!-- Neon Border Gradient -->
-    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF4500" />
+
+    <linearGradient id="title-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF5500" />
       <stop offset="50%" stop-color="#FFA500" />
+      <stop offset="100%" stop-color="#FF5500" />
+    </linearGradient>
+    
+    <!-- Border Gradient -->
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF4500" />
+      <stop offset="50%" stop-color="#FF8C00" />
       <stop offset="100%" stop-color="#FF4500" />
     </linearGradient>
   </defs>
 
   <style>
-    .bg { fill: #0b0e14; rx: 12px; stroke: url(#border-grad); stroke-width: 1.5; }
+    .bg { fill: #07090e; rx: 14px; stroke: url(#border-grad); stroke-width: 1.8; }
     
     .title {
-      font-family: 'Orbitron', 'Fira Code', 'Segoe UI', monospace;
-      font-size: 32px;
+      font-family: 'Orbitron', 'Consolas', 'Segoe UI', monospace;
+      font-size: 34px;
       font-weight: 900;
-      fill: #FFA500;
+      fill: url(#title-grad);
       filter: url(#neon-glow);
-      letter-spacing: 4px;
+      letter-spacing: 5px;
     }
+
+    .hud-line { stroke: #ff7700; stroke-width: 2; opacity: 0.8; }
+    .hud-text { font-family: 'Consolas', monospace; font-size: 10px; fill: #ff7700; opacity: 0.7; letter-spacing: 1px; }
 
     /* Left-to-Right Neon Laser Sweep Animation */
     .laser-line {
-      animation: sweep 3s linear infinite;
+      animation: sweep 3.5s linear infinite;
+    }
+
+    /* Radar Pulse Animation */
+    .pulse-dot {
+      animation: blink 1.2s ease-in-out infinite alternate;
     }
 
     @keyframes sweep {
       0% { transform: translateX(-300px); }
       100% { transform: translateX(850px); }
     }
+
+    @keyframes blink {
+      0% { opacity: 0.3; transform: scale(0.8); }
+      100% { opacity: 1; transform: scale(1.2); }
+    }
   </style>
 
-  <!-- Main Background Container -->
-  <rect width="850" height="210" class="bg" />
+  <!-- Main Background Panel -->
+  <rect width="850" height="230" class="bg" />
 
-  <!-- Animated Orange Neon Laser Sweep Bar -->
+  <!-- Cyber Grid Overlay -->
+  <rect width="850" height="230" fill="url(#cyber-grid)" rx="14" />
+
+  <!-- Animated Orange Neon Laser Sweep Bar (Top & Bottom) -->
   <g class="laser-line">
-    <rect x="0" y="2" width="250" height="3" fill="url(#laser-grad)" filter="url(#neon-glow)" />
-    <rect x="0" y="205" width="250" height="3" fill="url(#laser-grad)" filter="url(#neon-glow)" />
+    <rect x="0" y="2" width="280" height="3" fill="url(#laser-grad)" filter="url(#neon-glow)" />
+    <rect x="0" y="225" width="280" height="3" fill="url(#laser-grad)" filter="url(#neon-glow)" />
   </g>
 
-  <!-- Glowing Title -->
-  <g transform="translate(425, 60)">
+  <!-- Sci-Fi HUD Corner Brackets -->
+  <path d="M 20 35 L 20 20 L 35 20" class="hud-line" />
+  <path d="M 830 35 L 830 20 L 815 20" class="hud-line" />
+  <path d="M 20 195 L 20 210 L 35 210" class="hud-line" />
+  <path d="M 830 195 L 830 210 L 815 210" class="hud-line" />
+
+  <!-- HUD Technical Labels -->
+  <text x="38" y="32" class="hud-text">SYS.VER: 4.2.0 // AM-CORE</text>
+  <text x="812" y="32" text-anchor="end" class="hud-text">LOC: GLOBAL.NODE</text>
+
+  <!-- Main Title -->
+  <g transform="translate(425, 68)">
     <text x="0" y="0" text-anchor="middle" class="title">AYUSH MAHAJAN</text>
   </g>
 
-  <!-- Dynamic Orange Neon Typing Animation embedded inside header -->
-  <g transform="translate(100, 75)">
-    <image href="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=FFA500&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;lines=AI+Engineer+%26+Systems+Architect;Autonomous+Multi-Agent+Developer;Full-Stack+Web3+%26+RAG+Specialist;Open-Source+Contributor" width="650" height="50" />
+  <!-- Dynamic Orange Neon Typing Animation -->
+  <g transform="translate(100, 85)">
+    <image href="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=FFA500&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;lines=AI+Engineer+%26+Systems+Architect;Autonomous+Multi-Agent+Developer;Full-Stack+Web3+%26+RAG+Specialist;Open-Source+Contributor" width="650" height="50" />
   </g>
 
-  <!-- Status Bar -->
-  <g transform="translate(425, 172)">
-    <rect x="-240" y="-12" width="480" height="24" rx="12" fill="#161b22" stroke="#FF5500" stroke-width="1" />
-    <text x="0" y="4" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#FFA500" font-weight="bold">
-      [ STATUS: ONLINE ]  •  [ SYSTEM: RAG &amp; MULTI-AGENT CORE ]  •  [ OPEN SOURCE: ACTIVE ]
+  <!-- Sci-Fi Status Console -->
+  <g transform="translate(425, 185)">
+    <rect x="-260" y="-14" width="520" height="28" rx="14" fill="#0d111a" stroke="#FF5500" stroke-width="1.2" />
+    
+    <!-- Blinking Pulse Indicator Dot -->
+    <circle cx="-238" cy="0" r="4" fill="#00FF88" class="pulse-dot" filter="url(#neon-glow)" />
+    
+    <text x="0" y="4" text-anchor="middle" font-family="Consolas, monospace" font-size="11.5" fill="#FFA500" font-weight="bold">
+      [ STATUS: ONLINE ]  •  [ SYSTEM: MULTI-AGENT &amp; RAG CORE ]  •  [ OS: ACTIVE ]
     </text>
   </g>
 </svg>
