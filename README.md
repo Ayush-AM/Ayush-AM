@@ -1,11 +1,9 @@
 <div align="center">
 
-# ⚡ AYUSH MAHAJAN ⚡
+<!-- Terminal Neofetch Banner -->
+<img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/terminal_banner.svg" alt="Ayush Mahajan Terminal Banner" width="100%" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=AI+Engineer+%26+Systems+Architect;Autonomous+Multi-Agent+Developer;Full-Stack+Web3+%26+RAG+Specialist;Open-Source+Contributor" alt="Typing SVG" />
-</a>
-
+<br/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mahajan)
