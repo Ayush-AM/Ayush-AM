@@ -1,36 +1,17 @@
 <div align="center">
 
-# ⚡ AYUSH MAHAJAN ⚡
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=AI+Engineer+%26+Systems+Architect;Autonomous+Multi-Agent+Developer;Full-Stack+Web3+%26+RAG+Specialist;Open-Source+Contributor" alt="Typing SVG" />
-</a>
+<!-- User Custom Neofetch Terminal Banner -->
+<img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/dark_mode.svg" alt="Ayush Mahajan Neofetch Terminal Banner" width="100%" />
 
 <br/>
-
-> 🚀 *Driven by building intelligent, scalable AI systems, multi-agent frameworks, and high-performance full-stack applications.*
-
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mahajan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mahajan-856)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-AM)
 
 ---
 
 </div>
-
-## 🌌 System Architecture & Capabilities
-
-```gcode
-⚡ INITIALIZING SYSTEM CONFIGURATION...
-├─ 🤖 AI & ML: LangChain • RAG • Multi-Agent Networks • Groq • OpenAI API
-├─ 💻 Frontend: React • TypeScript • Tailwind CSS • Next.js • Vite
-├─ ⚙️ Backend: FastAPI • Flask • Python 3.11 • Node.js • Express
-├─ 🛡️ Core & Systems: C++ • RISC-V • Blockchain • PostgreSQL • Docker
-└─ 🌐 Open Source: Active Contributor to CNCF, Linux Foundation & Open Mainframe
-```
-
----
 
 ## 🛠️ Cybernetic Tech Matrix
 
@@ -42,7 +23,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **AI, Frameworks & Cloud Infrastructure**
+### **AI, Frameworks & Infrastructure**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -139,7 +120,7 @@
 
 ---
 
-## 📈 Activity & Contribution Matrix
+## 📈 Activity & Contributions
 
 <div align="center">
 
@@ -150,6 +131,5 @@
 ---
 
 <div align="center">
-  <p><i>"The best way to predict the future is to invent it."</i></p>
   <p>✨ Built & Maintained by <b>Ayush Mahajan</b> ✨</p>
 </div>
