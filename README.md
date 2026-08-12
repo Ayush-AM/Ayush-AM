@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Terminal Neofetch Banner -->
-<img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/terminal_banner.svg" alt="Ayush Mahajan Terminal Banner" width="100%" />
+<!-- Andrew-Grant Style Terminal ASCII Banner -->
+<img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/dark_mode.svg" alt="Ayush Mahajan Neofetch Terminal Banner" width="100%" />
 
 <br/>
 <br/>
