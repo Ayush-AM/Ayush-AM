@@ -2,7 +2,7 @@
   <rect width="880" height="460" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
   
   <style>
-    .ascii { font-family: 'Consolas', 'Courier New', monospace; font-size: 11px; fill: #e6edf3; font-weight: 500; letter-spacing: -0.5px; }
+    .ascii { font-family: 'Consolas', 'Courier New', monospace; font-size: 11px; fill: #e6edf3; font-weight: bold; letter-spacing: -0.5px; }
     .header { font-family: 'Consolas', 'Fira Code', monospace; font-size: 13px; fill: #58a6ff; font-weight: bold; }
     .dash { font-family: 'Consolas', monospace; font-size: 13px; fill: #484f58; }
     .label { font-family: 'Consolas', monospace; font-size: 13px; fill: #d2a8ff; font-weight: 600; }
@@ -12,33 +12,30 @@
     .red { font-family: 'Consolas', monospace; font-size: 13px; fill: #f85149; font-weight: 600; }
   </style>
 
-  <!-- Left Side: ASCII Portrait -->
+  <!-- Left Side: Custom High-Precision ASCII Portrait of Ayush Mahajan -->
   <text y="20" class="ascii">
-    <tspan x="20" dy="14">              g@M%0%%@N%Nw,,          </tspan>
-<tspan x="20" dy="14">          ,M*`|`%gNM=]mM%g||%N,       </tspan>
-<tspan x="20" dy="14">          p!`  ' !''' '|jhlj%w        </tspan>
-<tspan x="20" dy="14">        ,@L             ' !|j%M]M     </tspan>
-<tspan x="20" dy="14">       ]j``  ,.wp@pW,       ' |%Wg    </tspan>
-<tspan x="20" dy="14">      /{\|]]]]@@@@@@@@pp.      |||||   </tspan>
-<tspan x="20" dy="14">        ']@@@@@@@@@@@@@@@p             </tspan>
-<tspan x="20" dy="14">       :]%%@@@@%%%%%kk%h '*||mkr   *  </tspan>
-<tspan x="20" dy="14">        j%M`    |jkk' ~nrn=|i  `      </tspan>
-<tspan x="20" dy="14">       ! jrr*^         &quot;! L'':!       </tspan>
-<tspan x="20" dy="14">       j lp;,,  ,/ @@   ,;\nmy   ~    </tspan>
-<tspan x="20" dy="14">      i r @@@mmHM @@@@ ~****M*p, p ;  </tspan>
-<tspan x="20" dy="14">      |]@|@@@HHH]g@M%%%%%h,jmgpmb% j  </tspan>
-<tspan x="20" dy="14">      ;;%%%%k%k@[,.n|;.;j%%k|%k%%',  </tspan>
-<tspan x="20" dy="14">      H|%%k%%%j%k||,,;:j;!!'|ij}]@   </tspan>
-<tspan x="20" dy="14">      &quot;djjmkL,&quot;]] [,,,,,wwxw;|#kjk`   </tspan>
-<tspan x="20" dy="14">        %;%km%%%%M|%%jkkii|||  [      </tspan>
-<tspan x="20" dy="14">         kjj%%kkk1||||||j|||''       </tspan>
-<tspan x="20" dy="14">         |jm%H@@@b%%kmk%i!|,[         </tspan>
-<tspan x="20" dy="14">         @p|j%%%jkk||j*`;j[          </tspan>
-<tspan x="20" dy="14">         ]@@@@g'  ` .  ,;j%k          </tspan>
-<tspan x="20" dy="14">         @@@@@mgmp;,,,;;jj%%k%        </tspan>
-<tspan x="20" dy="14">       . @@@@@@@@%%kgil|jjjj%k%@     </tspan>
-<tspan x="20" dy="14">    .^[' %%%%%HH%b%k{illjjkjj%%%%;   </tspan>
-<tspan x="20" dy="14">    =[` . %HH%%%%%H@gkilljjj%kk%&quot;.  </tspan>
+    <tspan x="15" dy="14.5">              ^i|cJZOwkobQvt]^.             </tspan>
+<tspan x="15" dy="14.5">         . '[r#@$$$$$$$$$$$$$Mku;..         </tspan>
+<tspan x="15" dy="14.5">         ..Q$$$$@@$$$$$$$$$@$$$$m .         </tspan>
+<tspan x="15" dy="14.5">         . f@@$$$$@@$BMM%@$$$$@@b..         </tspan>
+<tspan x="15" dy="14.5">        . ^h$$BkLr}})]~+]{fq$$$$p^..        </tspan>
+<tspan x="15" dy="14.5">        ..'a$$#|]_&lt;iii&gt;&gt;&gt;~?(d$$$! .         </tspan>
+<tspan x="15" dy="14.5">         ' x$&amp;J}-~!IIll;I&gt;++[Z$p'.          </tspan>
+<tspan x="15" dy="14.5">         ' }$|{nUZppL/(cwhpQX[pJ '          </tspan>
+<tspan x="15" dy="14.5">        . ,nh|/moM&amp;8#r?qB%W*m|cwl..         </tspan>
+<tspan x="15" dy="14.5">        . :/Y|???{([}~,?((1]_-tu, .         </tspan>
+<tspan x="15" dy="14.5">         . izx?+!IIi{\[t|ili~-z| .          </tspan>
+<tspan x="15" dy="14.5">         ..`)b|}?_?}m%W@qf/{{|q_..          </tspan>
+<tspan x="15" dy="14.5">           . rp))OWMowCZo%Br(w\ .           </tspan>
+<tspan x="15" dy="14.5">           .. ChChQtvCCJvfw0kJ..            </tspan>
+<tspan x="15" dy="14.5">            . +#$@dxn0w0xud@#&gt; .            </tspan>
+<tspan x="15" dy="14.5">             ']CO&amp;$$$@@$$$@q0]'             </tspan>
+<tspan x="15" dy="14.5">          .^,:'rCuQb#8B&amp;*qzLX&quot;;,`.          </tspan>
+<tspan x="15" dy="14.5">      ..'`^!;,  zCrnYL0LXnYz` &quot;;:`^`'.      </tspan>
+<tspan x="15" dy="14.5">  ..''''```:'^{0CnXuuzXzncczpx;`^``^^^``'.  </tspan>
+<tspan x="15" dy="14.5">''`''''''''^~vmJv){11{{1{11xzCY[&quot;'''````^^^`</tspan>
+<tspan x="15" dy="14.5">`''''''''''`l;^&quot;&quot;I!!!_{?+~l,&quot;`:l^''''''''`^^</tspan>
+<tspan x="15" dy="14.5">'```'''''''' .'``'`^&quot;Iil;&quot;^^^`' ''''''```^^'</tspan>
   </text>
 
   <!-- Right Side: Neofetch System Information -->
