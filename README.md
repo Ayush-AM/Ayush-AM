@@ -1,10 +1,14 @@
 <div align="center">
 
-# Ayush Mahajan
+# AYUSH MAHAJAN
 
-**AI Engineer & Full-Stack Developer | Open-Source Contributor**
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=AI+Engineer+%26+Systems+Architect;Autonomous+Multi-Agent+Developer;Full-Stack+Web3+%26+RAG+Specialist;Open-Source+Contributor" alt="Typing SVG" />
+</a>
 
-Driven by building intelligent, scalable AI systems, multi-agent frameworks, and high-performance full-stack applications.
+<br/>
+
+> *Driven by building intelligent, scalable AI systems, multi-agent frameworks, and high-performance full-stack applications.*
 
 <br/>
 
@@ -14,6 +18,18 @@ Driven by building intelligent, scalable AI systems, multi-agent frameworks, and
 ---
 
 </div>
+
+## System Capabilities
+
+```gcode
+SYSTEM INITIALIZATION:
++ AI & ML: LangChain | RAG | Multi-Agent Networks | Groq | OpenAI API
++ Frontend: React | TypeScript | Tailwind CSS | Next.js | Vite
++ Backend: FastAPI | Flask | Python 3.11 | Node.js | Express
++ Core & Systems: C++ | RISC-V | Blockchain | PostgreSQL | Docker
+```
+
+---
 
 ## Tech Stack & Skills
 
@@ -47,7 +63,7 @@ Driven by building intelligent, scalable AI systems, multi-agent frameworks, and
       <p align="center">Full-stack AI Study Workspace featuring real-time PDF RAG search, FastAPI backend, and React TypeScript UI powered by Groq LLM.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/AI-Study-Assistant">
-          <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -56,7 +72,7 @@ Driven by building intelligent, scalable AI systems, multi-agent frameworks, and
       <p align="center">AI Code Assistant & Code Intelligence Engine providing automated analysis and smart insights for GitHub developer workflows.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/Github-CODEMIND">
-          <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -67,7 +83,7 @@ Driven by building intelligent, scalable AI systems, multi-agent frameworks, and
       <p align="center">Autonomous multi-agent research engine built with LangChain, Streamlit, and Groq for real-time web & data synthesis.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/Multi-Agent-Research-System">
-          <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -76,7 +92,7 @@ Driven by building intelligent, scalable AI systems, multi-agent frameworks, and
       <p align="center">Blockchain-verified threat intelligence feed providing immutable cybersecurity telemetry in Python.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/Threat-Feed">
-          <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -87,7 +103,7 @@ Driven by building intelligent, scalable AI systems, multi-agent frameworks, and
       <p align="center">Flask web platform managing student marksheets across 10 engineering branches with AI performance analytics.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/marksheet-management-system">
-          <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -96,7 +112,7 @@ Driven by building intelligent, scalable AI systems, multi-agent frameworks, and
       <p align="center">High-precision RISC-V challenge implementing recursive Tower of Hanoi & iterative Conway's Game of Life in Python 3.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/riscv-hanoi-life">
-          <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
