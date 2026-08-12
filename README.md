@@ -12,7 +12,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mahajan-856)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-mahajan-a50bb3277/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-AM)
 
 ---
@@ -22,12 +22,12 @@
 ## About & System Details
 
 * **Engineer**: Ayush Mahajan
-* **Email**: `ayushmahajan@gmail.com`
+* **Email**: `arpitmahajan856@gmail.com`
 * **Core Domain**: AI Engineering, Autonomous Multi-Agent Systems & Full-Stack Development
 * **AI & ML Stack**: LangChain | RAG Architectures | Multi-Agent Orchestration | Groq API | OpenAI API
 * **Full-Stack Stack**: React | TypeScript | FastAPI | Flask | C++ | Python 3.11 | Docker | PostgreSQL
 * **Open Source**: Active Contributor to CNCF, Linux Foundation, Open Mainframe & Hyperledger
-* **Profiles**: [LinkedIn](https://linkedin.com/in/ayush-mahajan-856) • [GitHub](https://github.com/Ayush-AM) • [LeetCode](https://leetcode.com/ayush_mahajan)
+* **Profiles**: [LinkedIn](https://www.linkedin.com/in/ayush-mahajan-a50bb3277/) • [GitHub](https://github.com/Ayush-AM)
 
 ---
 
