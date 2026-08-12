@@ -68,6 +68,17 @@
       </p>
     </td>
     <td width="50%">
+      <h3 align="center">🧠 Github-CODEMIND</h3>
+      <p align="center">AI Code Assistant & Code Intelligence Engine providing automated analysis and smart insights for GitHub developer workflows.</p>
+      <p align="center">
+        <a href="https://github.com/Ayush-AM/Github-CODEMIND">
+          <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">🤖 Multi-Agent Research System</h3>
       <p align="center">Autonomous multi-agent research engine built with LangChain, Streamlit, and Groq for real-time web & data synthesis.</p>
       <p align="center">
@@ -76,8 +87,6 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🛡️ Threat-Feed Intelligence</h3>
       <p align="center">Blockchain-verified threat intelligence feed providing immutable cybersecurity telemetry in Python.</p>
@@ -87,6 +96,8 @@
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">📊 Marksheet Management System</h3>
       <p align="center">Flask web platform managing student marksheets across 10 engineering branches with AI performance analytics.</p>
@@ -96,22 +107,11 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">⚡ RISC-V Hanoi & Game of Life</h3>
       <p align="center">High-precision RISC-V challenge implementing recursive Tower of Hanoi & iterative Conway's Game of Life in Python 3.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/riscv-hanoi-life">
-          <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 DSA Analyzer</h3>
-      <p align="center">Interactive TypeScript application for analyzing algorithm time and space complexity in real-time.</p>
-      <p align="center">
-        <a href="https://github.com/Ayush-AM/DSA-Analyzer">
           <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
