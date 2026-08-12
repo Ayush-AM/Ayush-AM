@@ -1,9 +1,11 @@
 <div align="center">
 
-<!-- Andrew-Grant Style Terminal ASCII Banner -->
-<img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/dark_mode.svg" alt="Ayush Mahajan Neofetch Terminal Banner" width="100%" />
+# Hi there, I'm Ayush Mahajan 👋
 
-<br/>
+### 🚀 AI Engineer & Full-Stack Developer | Open-Source Contributor
+
+Driven by building intelligent, scalable AI systems, multi-agent frameworks, and high-performance full-stack applications.
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mahajan)
@@ -13,20 +15,7 @@
 
 </div>
 
-## 🌌 System Architecture & Capabilities
-
-```gcode
-⚡ INITIALIZING SYSTEM CONFIGURATION...
-├─ 🤖 AI & ML: LangChain • RAG • Multi-Agent Networks • Groq • OpenAI API
-├─ 💻 Frontend: React • TypeScript • Tailwind CSS • Next.js • Vite
-├─ ⚙️ Backend: FastAPI • Flask • Python 3.11 • Node.js • Express
-├─ 🛡️ Core & Systems: C++ • RISC-V • Blockchain • PostgreSQL • Docker
-└─ 🌐 Open Source: Active Contributor to CNCF, Linux Foundation & Open Mainframe
-```
-
----
-
-## 🛠️ Cybernetic Tech Matrix
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
@@ -35,24 +24,21 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **AI, Frameworks & Cloud Infrastructure**
+### **AI, Frameworks & Infrastructure**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## 💎 Flagship Innovations
+## ⭐ Featured Projects
 
 <table>
   <tr>
@@ -119,7 +105,7 @@
 
 ---
 
-## 🌐 Open-Source Contributions & PR Telemetry
+## 🌐 Open-Source Contributions
 
 <div align="center">
 
@@ -136,7 +122,7 @@
 
 ---
 
-## 📈 Activity & Contribution Matrix
+## 📈 Activity & Contributions
 
 <div align="center">
 
@@ -147,6 +133,5 @@
 ---
 
 <div align="center">
-  <p><i>"The best way to predict the future is to invent it."</i></p>
   <p>✨ Built & Maintained by <b>Ayush Mahajan</b> ✨</p>
 </div>
