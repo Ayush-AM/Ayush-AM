@@ -4,6 +4,12 @@
 <img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/neon_header.svg" alt="Ayush Mahajan Orange Neon Header" width="100%" />
 
 <br/>
+
+<!-- Dynamic Typing SVG Animation -->
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=FF6B00&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=AI+Engineer+%26+Systems+Architect;Autonomous+Multi-Agent+Developer;Full-Stack+Web3+%26+RAG+Specialist;Open-Source+Contributor" alt="Typing SVG" />
+</a>
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mahajan-856)
@@ -12,6 +18,19 @@
 ---
 
 </div>
+
+## System Architecture & Details
+
+```gcode
+SYSTEM CONFIGURATION:
++ Engineer: Ayush Mahajan
++ Core Domain: AI Engineering, Autonomous Multi-Agent Systems & Full-Stack Development
++ AI & ML Stack: LangChain | RAG Architectures | Multi-Agent Orchestration | Groq API | OpenAI API
++ Full-Stack: React | TypeScript | FastAPI | Flask | C++ | Python 3.11 | Docker | PostgreSQL
++ Open Source: Contributor to CNCF, Linux Foundation, Open Mainframe & Hyperledger
+```
+
+---
 
 ## Tech Stack & Skills
 
