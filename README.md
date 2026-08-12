@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Orange Neon Laser Header with Dynamic Typing -->
+<!-- Animated Orange Neon Laser Header -->
 <img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/neon_header.svg" alt="Ayush Mahajan Orange Neon Header" width="100%" />
 
 <br/>
@@ -90,10 +90,10 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">RISC-V Hanoi & Game of Life</h3>
-      <p align="center">High-precision RISC-V challenge implementing recursive Tower of Hanoi & iterative Conway's Game of Life in Python 3.</p>
+      <h3 align="center">DSA Analyzer</h3>
+      <p align="center">Interactive TypeScript application for analyzing algorithm time &amp; space complexity in real-time, deployed live on Vercel.</p>
       <p align="center">
-        <a href="https://github.com/Ayush-AM/riscv-hanoi-life">
+        <a href="https://github.com/Ayush-AM/DSA-Analyzer">
           <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
