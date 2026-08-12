@@ -7,7 +7,7 @@
 
 <!-- Dynamic Typing SVG Animation -->
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=FF6B00&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=AI+Engineer+%26+Systems+Architect;Autonomous+Multi-Agent+Developer;Full-Stack+Web3+%26+RAG+Specialist;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=FF6B00&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=AI+%26+Full-Stack+Developer;Multi-Agent+Systems+Explorer;Web+Developer;Open-Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,19 +19,19 @@
 
 </div>
 
-## About & System Details
+## About Me
 
-* **Engineer**: Ayush Mahajan
+* **Developer**: Ayush Mahajan
 * **Email**: `arpitmahajan856@gmail.com`
-* **Core Domain**: AI Engineering, Autonomous Multi-Agent Systems & Full-Stack Development
-* **AI & ML Stack**: LangChain | RAG Architectures | Multi-Agent Orchestration | Groq API | OpenAI API
-* **Full-Stack Stack**: React | TypeScript | FastAPI | Flask | C++ | Python 3.11 | Docker | PostgreSQL
-* **Open Source**: Active Contributor to CNCF, Linux Foundation, Open Mainframe & Hyperledger
+* **Focus**: AI Applications, Multi-Agent Frameworks & Full-Stack Web Development
+* **AI & ML**: LangChain, Groq API, OpenAI API
+* **Full-Stack**: React, TypeScript, FastAPI, Flask, C++, Python 3.11, Docker, PostgreSQL
+* **Open Source**: Contributor to openmainframeproject, kubernetes-sigs, gitmesh, Rocket.Chat & Hyperledger
 * **Profiles**: [LinkedIn](https://www.linkedin.com/in/ayush-mahajan-a50bb3277/) • [GitHub](https://github.com/Ayush-AM)
 
 ---
 
-## Tech Stack & Skills
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### AI, Frameworks & Infrastructure
+### Frameworks & Tools
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -60,7 +60,7 @@
   <tr>
     <td width="50%">
       <h3 align="center">AI Study Assistant</h3>
-      <p align="center">Full-stack AI Study Workspace featuring real-time PDF RAG search, FastAPI backend, and React TypeScript UI powered by Groq LLM.</p>
+      <p align="center">Full-stack AI Study Workspace featuring PDF search, FastAPI backend, and React TypeScript UI powered by Groq LLM.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/AI-Study-Assistant">
           <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
@@ -80,7 +80,7 @@
   <tr>
     <td width="50%">
       <h3 align="center">Multi-Agent Research System</h3>
-      <p align="center">Autonomous multi-agent research engine built with LangChain, Streamlit, and Groq for real-time web & data synthesis.</p>
+      <p align="center">Multi-agent research tool built with LangChain, Streamlit, and Groq for automated web & data synthesis.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/Multi-Agent-Research-System">
           <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
