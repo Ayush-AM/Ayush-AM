@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Locked Animated Orange Neon Laser Header (Cache Busted v=2) -->
+<!-- Locked Animated Orange Neon Laser Header (Cache Busted v=3) -->
 <a href="#about-me">
-  <img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/neon_header.svg?v=2" alt="Ayush Mahajan Orange Neon Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/neon_header.svg?v=3" alt="Ayush Mahajan Orange Neon Header" width="100%" />
 </a>
 
 <br/>
