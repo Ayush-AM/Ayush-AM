@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Animated Orange Neon Laser Header -->
+<!-- Animated Orange Neon Laser Header with Dynamic Typing -->
 <img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/neon_header.svg" alt="Ayush Mahajan Orange Neon Header" width="100%" />
 
 <br/>
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mahajan-856)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mahajan-856)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-AM)
 
 ---
@@ -45,7 +45,7 @@
       <p align="center">Full-stack AI Study Workspace featuring real-time PDF RAG search, FastAPI backend, and React TypeScript UI powered by Groq LLM.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/AI-Study-Assistant">
-          <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -54,7 +54,7 @@
       <p align="center">AI Code Assistant & Code Intelligence Engine providing automated analysis and smart insights for GitHub developer workflows.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/Github-CODEMIND">
-          <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -65,7 +65,7 @@
       <p align="center">Autonomous multi-agent research engine built with LangChain, Streamlit, and Groq for real-time web & data synthesis.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/Multi-Agent-Research-System">
-          <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -74,7 +74,7 @@
       <p align="center">Blockchain-verified threat intelligence feed providing immutable cybersecurity telemetry in Python.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/Threat-Feed">
-          <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -85,7 +85,7 @@
       <p align="center">Flask web platform managing student marksheets across 10 engineering branches with AI performance analytics.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/marksheet-management-system">
-          <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -94,7 +94,7 @@
       <p align="center">High-precision RISC-V challenge implementing recursive Tower of Hanoi & iterative Conway's Game of Life in Python 3.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/riscv-hanoi-life">
-          <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -124,7 +124,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-AM&theme=react-dark&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-AM&theme=react-dark&color=FF6B00&line=FF8C00&point=FFA500&hide_border=true&area=true" />
 
 </div>
 
