@@ -1,12 +1,14 @@
 <div align="center">
 
-<!-- Animated Orange Neon Laser Header -->
-<img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/neon_header.svg" alt="Ayush Mahajan Orange Neon Header" width="100%" />
+<!-- Locked Animated Orange Neon Laser Header -->
+<a href="#about-me">
+  <img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/neon_header.svg" alt="Ayush Mahajan Orange Neon Header" width="100%" />
+</a>
 
 <br/>
 
-<!-- Dynamic Typing SVG Animation -->
-<a href="https://readme-typing-svg.demolab.com">
+<!-- Locked Dynamic Typing SVG Animation -->
+<a href="#about-me">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=FF6B00&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=AI+%26+Full-Stack+Developer;Multi-Agent+Systems+Explorer;Web+Developer;Open-Source+Contributor" alt="Typing SVG" />
 </a>
 
@@ -19,6 +21,7 @@
 
 </div>
 
+<a id="about-me"></a>
 ## About Me
 
 * **Developer**: Ayush Mahajan
@@ -142,7 +145,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-AM&theme=react-dark&color=FF6B00&line=FF8C00&point=FFA500&hide_border=true&area=true" />
+<a href="#about-me">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-AM&theme=react-dark&color=FF6B00&line=FF8C00&point=FFA500&hide_border=true&area=true" />
+</a>
 
 </div>
 
