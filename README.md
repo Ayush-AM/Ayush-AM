@@ -1,126 +1,47 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate developer from India</h3>
+# Hi there, I'm Ayush Mahajan 👋
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ayush-am&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-am" /> 
-</p>
+### 🚀 AI Engineer & Full-Stack Developer | Open-Source Contributor
 
-
-- 👨‍💻 My Portfolio  - [https://ayush-portffolio.vercel.app/](https://ayush-portffolio.vercel.app/)
-
-- 📫 How to reach me **arpitmahajan856@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11MlQ7nidP31K86pX8sijtb7baQ87njqd/view?usp=sharing)
-
-- ⚡ Fact **I am Enthusiast**
+Driven by building intelligent, scalable AI systems, multi-agent frameworks, and high-performance full-stack applications.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayush-mahajan-a50bb3277/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-mahajan" height="30" width="40" />
-  </a>
-</p>
+### 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-<h3 align="left">🧠 Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
+### ⭐ Featured Projects
 
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a>
-
-  <!-- Database -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-
-  <!-- Programming Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-
-  <!-- ML / AI -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-
-  <!-- DevOps / Cloud / Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-</p>
+* 🎓 **[AI-Study-Assistant](https://github.com/Ayush-AM/AI-Study-Assistant)**: Full-stack AI Study Workspace with PDF RAG search, FastAPI backend, and React TypeScript frontend powered by Groq LLM.
+* 🤖 **[Multi-Agent-Research-System](https://github.com/Ayush-AM/Multi-Agent-Research-System)**: Fully automated multi-agent AI research pipeline using LangChain, Streamlit, and Groq.
+* 🛡️ **[Threat-Feed](https://github.com/Ayush-AM/Threat-Feed)**: Blockchain-Verified Threat Intelligence Feed.
+* 📊 **[marksheet-management-system](https://github.com/Ayush-AM/marksheet-management-system)**: Full-stack Flask app managing student marksheets across 10 engineering branches with AI analytics.
+* ⚡ **[riscv-hanoi-life](https://github.com/Ayush-AM/riscv-hanoi-life)**: RISC-V Challenge — Tower of Hanoi & Conway's Game of Life in pure Python 3.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-am&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ayush-am" />
-</p>
+### 🌐 Open Source Contributions
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-am&theme=tokyonight" alt="ayush-am" />
-</p>
+Active contributor to global open-source projects:
+* 🔹 **[openmainframeproject/tersedecompress](https://github.com/openmainframeproject/tersedecompress)** (5 PRs) — Data compression & static analysis tooling.
+* 🔹 **[LF-Decentralized-Trust-labs/gitmesh](https://github.com/LF-Decentralized-Trust-labs/gitmesh)** (2 PRs) — Policy-as-Code & automated CI route coverage.
+* 🔹 **[kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)** (1 PR) — ClusterAction error handling & plugin migration.
+* 🔹 **[RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)** (1 PR) — Viewport overflow & event loop optimization.
+* 🔹 **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** (1 PR) — Stream fix & terminal agent stability.
+* 🔹 **[BiniWorld/Hyperledger-BiniBFT](https://github.com/BiniWorld/Hyperledger-BiniBFT)** (1 PR) — Unit test suite for BiniBFT proposal parsing.
+
+---
+
+### 📫 Connect with Me
+- 💼 **LinkedIn**: [Ayush Mahajan](https://www.linkedin.com/in/ayush-mahajan)
+- 🐙 **GitHub**: [@Ayush-AM](https://github.com/Ayush-AM)
