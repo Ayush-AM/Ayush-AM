@@ -141,12 +141,19 @@
 
 ---
 
-## Activity & Contributions
+## Real-Time Activity & Contribution Matrix
 
 <div align="center">
 
 <a href="#about-me">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-AM&theme=react-dark&color=FF6B00&line=FF8C00&point=FFA500&hide_border=true&area=true" />
+</a>
+
+<br/>
+<br/>
+
+<a href="#about-me">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-AM&theme=dark&background=07090E&fire=FF6B00&ring=FF6B00&currStreakNum=FF6B00&sideNums=FF6B00&sideTitle=FFA500&currStreakLabel=FFA500&dates=9CA3AF&hide_border=true" />
 </a>
 
 </div>
