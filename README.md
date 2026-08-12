@@ -1,9 +1,11 @@
 <div align="center">
 
-<!-- User Custom Neofetch Terminal Banner -->
-<img src="https://raw.githubusercontent.com/Ayush-AM/Ayush-AM/main/dark_mode.svg" alt="Ayush Mahajan Neofetch Terminal Banner" width="100%" />
+# Ayush Mahajan
 
-<br/>
+**AI Engineer & Full-Stack Developer | Open-Source Contributor**
+
+Driven by building intelligent, scalable AI systems, multi-agent frameworks, and high-performance full-stack applications.
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mahajan-856)
@@ -13,17 +15,17 @@
 
 </div>
 
-## 🛠️ Cybernetic Tech Matrix
+## Tech Stack & Skills
 
 <div align="center">
 
-### **Languages & Core Systems**
+### Languages & Core Systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **AI, Frameworks & Infrastructure**
+### AI, Frameworks & Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -36,12 +38,12 @@
 
 ---
 
-## 💎 Flagship Innovations
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🎓 AI Study Assistant</h3>
+      <h3 align="center">AI Study Assistant</h3>
       <p align="center">Full-stack AI Study Workspace featuring real-time PDF RAG search, FastAPI backend, and React TypeScript UI powered by Groq LLM.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/AI-Study-Assistant">
@@ -50,7 +52,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🧠 Github-CODEMIND</h3>
+      <h3 align="center">Github-CODEMIND</h3>
       <p align="center">AI Code Assistant & Code Intelligence Engine providing automated analysis and smart insights for GitHub developer workflows.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/Github-CODEMIND">
@@ -61,7 +63,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 Multi-Agent Research System</h3>
+      <h3 align="center">Multi-Agent Research System</h3>
       <p align="center">Autonomous multi-agent research engine built with LangChain, Streamlit, and Groq for real-time web & data synthesis.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/Multi-Agent-Research-System">
@@ -70,7 +72,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛡️ Threat-Feed Intelligence</h3>
+      <h3 align="center">Threat-Feed Intelligence</h3>
       <p align="center">Blockchain-verified threat intelligence feed providing immutable cybersecurity telemetry in Python.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/Threat-Feed">
@@ -81,7 +83,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📊 Marksheet Management System</h3>
+      <h3 align="center">Marksheet Management System</h3>
       <p align="center">Flask web platform managing student marksheets across 10 engineering branches with AI performance analytics.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/marksheet-management-system">
@@ -90,7 +92,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ RISC-V Hanoi & Game of Life</h3>
+      <h3 align="center">RISC-V Hanoi & Game of Life</h3>
       <p align="center">High-precision RISC-V challenge implementing recursive Tower of Hanoi & iterative Conway's Game of Life in Python 3.</p>
       <p align="center">
         <a href="https://github.com/Ayush-AM/riscv-hanoi-life">
@@ -103,24 +105,24 @@
 
 ---
 
-## 🌐 Open-Source Contributions
+## Open-Source Contributions
 
 <div align="center">
 
 | Ecosystem | Project Repository | Pull Request Highlights |
 | :--- | :--- | :--- |
-| **Open Mainframe** | [`openmainframeproject/tersedecompress`](https://github.com/openmainframeproject/tersedecompress) | 🔹 [PR #32](https://github.com/openmainframeproject/tersedecompress/pull/32) • [PR #31](https://github.com/openmainframeproject/tersedecompress/pull/31) (*Static analysis & file headers*) |
-| **LF Decentralized** | [`LF-Decentralized-Trust-labs/gitmesh`](https://github.com/LF-Decentralized-Trust-labs/gitmesh) | 🔹 [PR #401](https://github.com/LF-Decentralized-Trust-labs/gitmesh/pull/401) • [PR #400](https://github.com/LF-Decentralized-Trust-labs/gitmesh/pull/400) (*CI automated validation & UI test coverage*) |
-| **Kubernetes SIGs** | [`kubernetes-sigs/headlamp`](https://github.com/kubernetes-sigs/headlamp) | 🔹 [PR #4504](https://github.com/kubernetes-sigs/headlamp/pull/4504) (*ClusterAction error handling & plugin migration*) |
-| **Rocket.Chat** | [`RocketChat/EmbeddedChat`](https://github.com/RocketChat/EmbeddedChat) | 🔹 [PR #1164](https://github.com/RocketChat/EmbeddedChat/pull/1164) (*Event loop busy-wait fix & viewport optimization*) |
-| **Google Gemini** | [`google-gemini/gemini-cli`](https://github.com/google-gemini/gemini-cli) | 🔹 [PR #21566](https://github.com/google-gemini/gemini-cli/pull/21566) (*Fix agent info leak in terminal agent*) |
-| **Hyperledger** | [`BiniWorld/Hyperledger-BiniBFT`](https://github.com/BiniWorld/Hyperledger-BiniBFT) | 🔹 [PR #18](https://github.com/BiniWorld/Hyperledger-BiniBFT/pull/18) (*Unit test suite for proposal & request parsing*) |
+| **Open Mainframe** | [`openmainframeproject/tersedecompress`](https://github.com/openmainframeproject/tersedecompress) | [PR #32](https://github.com/openmainframeproject/tersedecompress/pull/32) • [PR #31](https://github.com/openmainframeproject/tersedecompress/pull/31) (Static analysis & file headers) |
+| **LF Decentralized** | [`LF-Decentralized-Trust-labs/gitmesh`](https://github.com/LF-Decentralized-Trust-labs/gitmesh) | [PR #401](https://github.com/LF-Decentralized-Trust-labs/gitmesh/pull/401) • [PR #400](https://github.com/LF-Decentralized-Trust-labs/gitmesh/pull/400) (CI automated validation & UI test coverage) |
+| **Kubernetes SIGs** | [`kubernetes-sigs/headlamp`](https://github.com/kubernetes-sigs/headlamp) | [PR #4504](https://github.com/kubernetes-sigs/headlamp/pull/4504) (ClusterAction error handling & plugin migration) |
+| **Rocket.Chat** | [`RocketChat/EmbeddedChat`](https://github.com/RocketChat/EmbeddedChat) | [PR #1164](https://github.com/RocketChat/EmbeddedChat/pull/1164) (Event loop busy-wait fix & viewport optimization) |
+| **Google Gemini** | [`google-gemini/gemini-cli`](https://github.com/google-gemini/gemini-cli) | [PR #21566](https://github.com/google-gemini/gemini-cli/pull/21566) (Fix agent info leak in terminal agent) |
+| **Hyperledger** | [`BiniWorld/Hyperledger-BiniBFT`](https://github.com/BiniWorld/Hyperledger-BiniBFT) | [PR #18](https://github.com/BiniWorld/Hyperledger-BiniBFT/pull/18) (Unit test suite for proposal & request parsing) |
 
 </div>
 
 ---
 
-## 📈 Activity & Contributions
+## Activity & Contributions
 
 <div align="center">
 
@@ -131,5 +133,5 @@
 ---
 
 <div align="center">
-  <p>✨ Built & Maintained by <b>Ayush Mahajan</b> ✨</p>
+  <p>Built & Maintained by <b>Ayush Mahajan</b></p>
 </div>
