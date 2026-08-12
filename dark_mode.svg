@@ -12,33 +12,38 @@
     .red { font-family: 'Consolas', monospace; font-size: 13px; fill: #f85149; font-weight: 600; }
   </style>
 
-  <!-- Left Side: Custom High-Precision ASCII Portrait of Ayush Mahajan -->
+  <!-- Left Side: Andrew-Grant Style ASCII Silhouette Portrait of Ayush Mahajan -->
   <text y="20" class="ascii">
-    <tspan x="15" dy="14.5">              ^i|cJZOwkobQvt]^.             </tspan>
-<tspan x="15" dy="14.5">         . '[r#@$$$$$$$$$$$$$Mku;..         </tspan>
-<tspan x="15" dy="14.5">         ..Q$$$$@@$$$$$$$$$@$$$$m .         </tspan>
-<tspan x="15" dy="14.5">         . f@@$$$$@@$BMM%@$$$$@@b..         </tspan>
-<tspan x="15" dy="14.5">        . ^h$$BkLr}})]~+]{fq$$$$p^..        </tspan>
-<tspan x="15" dy="14.5">        ..'a$$#|]_&lt;iii&gt;&gt;&gt;~?(d$$$! .         </tspan>
-<tspan x="15" dy="14.5">         ' x$&amp;J}-~!IIll;I&gt;++[Z$p'.          </tspan>
-<tspan x="15" dy="14.5">         ' }$|{nUZppL/(cwhpQX[pJ '          </tspan>
-<tspan x="15" dy="14.5">        . ,nh|/moM&amp;8#r?qB%W*m|cwl..         </tspan>
-<tspan x="15" dy="14.5">        . :/Y|???{([}~,?((1]_-tu, .         </tspan>
-<tspan x="15" dy="14.5">         . izx?+!IIi{\[t|ili~-z| .          </tspan>
-<tspan x="15" dy="14.5">         ..`)b|}?_?}m%W@qf/{{|q_..          </tspan>
-<tspan x="15" dy="14.5">           . rp))OWMowCZo%Br(w\ .           </tspan>
-<tspan x="15" dy="14.5">           .. ChChQtvCCJvfw0kJ..            </tspan>
-<tspan x="15" dy="14.5">            . +#$@dxn0w0xud@#&gt; .            </tspan>
-<tspan x="15" dy="14.5">             ']CO&amp;$$$@@$$$@q0]'             </tspan>
-<tspan x="15" dy="14.5">          .^,:'rCuQb#8B&amp;*qzLX&quot;;,`.          </tspan>
-<tspan x="15" dy="14.5">      ..'`^!;,  zCrnYL0LXnYz` &quot;;:`^`'.      </tspan>
-<tspan x="15" dy="14.5">  ..''''```:'^{0CnXuuzXzncczpx;`^``^^^``'.  </tspan>
-<tspan x="15" dy="14.5">''`''''''''^~vmJv){11{{1{11xzCY[&quot;'''````^^^`</tspan>
-<tspan x="15" dy="14.5">`''''''''''`l;^&quot;&quot;I!!!_{?+~l,&quot;`:l^''''''''`^^</tspan>
-<tspan x="15" dy="14.5">'```'''''''' .'``'`^&quot;Iil;&quot;^^^`' ''''''```^^'</tspan>
+    <tspan x="20" dy="14.5">          .;%@@@@@@@@@@@@@%.          </tspan>
+<tspan x="20" dy="14.5">       ..@@@@@@@@@@@@@@@@@@@@@j       </tspan>
+<tspan x="20" dy="14.5">      @@@@@@@@@@@@@@@@@@@@@@@@@@      </tspan>
+<tspan x="20" dy="14.5">      @@@@@@@@@@@@@@@@@@@@@@@@@@      </tspan>
+<tspan x="20" dy="14.5">      j@@@@@@@@%@@%jjj%@@@@@@@@@.     </tspan>
+<tspan x="20" dy="14.5">     ;@@@@@j;            ;@@@@@@.     </tspan>
+<tspan x="20" dy="14.5">     .@@@@;               j@@@@;      </tspan>
+<tspan x="20" dy="14.5">      @@@@.                j@@@       </tspan>
+<tspan x="20" dy="14.5">      %@%.                  ;@@       </tspan>
+<tspan x="20" dy="14.5">      j@  .;j%@@@j..;%@@@%j; j@       </tspan>
+<tspan x="20" dy="14.5">      ;@ .j@@@@@@@. ;@@@@@@j ;@.      </tspan>
+<tspan x="20" dy="14.5">     ..j   ..;;;..   ;;;;..  .;.      </tspan>
+<tspan x="20" dy="14.5">       ;                     ..       </tspan>
+<tspan x="20" dy="14.5">       ;;        .. .;       ;;       </tspan>
+<tspan x="20" dy="14.5">       .@.       %@@@@.     .%.       </tspan>
+<tspan x="20" dy="14.5">        jj   .j%@@@%@@@@@.  jj        </tspan>
+<tspan x="20" dy="14.5">         @j..@@%j;...;j%@j.j@         </tspan>
+<tspan x="20" dy="14.5">          @%%%j .j%%jj..j%%@          </tspan>
+<tspan x="20" dy="14.5">          j@@@@; .;jj. .%@@j          </tspan>
+<tspan x="20" dy="14.5">          ;j@@@@@@@@@@@@@@j;          </tspan>
+<tspan x="20" dy="14.5">          .;;%@@@@@@@@@@@;j;          </tspan>
+<tspan x="20" dy="14.5">           j;.;j%@@@@@%j;;%           </tspan>
+<tspan x="20" dy="14.5">            %;..;;jjj;;.;j            </tspan>
+<tspan x="20" dy="14.5">           ..jj;.;;;;;.;j.;.          </tspan>
+<tspan x="20" dy="14.5">         j@@j ...........;@@@.        </tspan>
+<tspan x="20" dy="14.5">       .;;.                  ;.       </tspan>
+<tspan x="20" dy="14.5">                                      </tspan>
   </text>
 
-  <!-- Right Side: Neofetch System Information -->
+  <!-- Right Side: Exact Andrew-Grant Neofetch System Information Grid -->
   <g transform="translate(340, 30)">
     <!-- Header -->
     <text x="0" y="0" class="header">ayush@mahajan</text>
@@ -46,29 +51,29 @@
 
     <!-- Details -->
     <text x="0" y="22" class="label">. OS: <tspan class="text">................... Windows 11, Linux, Android</tspan></text>
-    <text x="0" y="42" class="label">. Uptime: <tspan class="text">............... AI Engineer &amp; Full-Stack Dev</tspan></text>
-    <text x="0" y="62" class="label">. Host: <tspan class="text">................. Autonomous Systems &amp; RAG Core</tspan></text>
-    <text x="0" y="82" class="label">. Kernel: <tspan class="text">............... Multi-Agent Network Orchestration</tspan></text>
-    <text x="0" y="102" class="label">. IDE: <tspan class="text">.................. VS Code, Antigravity IDE, PyCharm</tspan></text>
+    <text x="0" y="42" class="label">. Host: <tspan class="text">................. AI Engineer &amp; Full-Stack Dev</tspan></text>
+    <text x="0" y="62" class="label">. Kernel: <tspan class="text">............... Autonomous Multi-Agent &amp; RAG Core</tspan></text>
+    <text x="0" y="82" class="label">. IDE: <tspan class="text">.................. VS Code, PyCharm, Antigravity IDE</tspan></text>
 
     <!-- Languages -->
-    <text x="0" y="132" class="label">. Languages.Programming: <tspan class="highlight">Python, TypeScript, C++, JavaScript</tspan></text>
-    <text x="0" y="152" class="label">. Languages.Frameworks: .. <tspan class="text">LangChain, FastAPI, React, Flask, Docker</tspan></text>
-    <text x="0" y="172" class="label">. Languages.Real: ....... <tspan class="text">English, Hindi</tspan></text>
+    <text x="0" y="112" class="label">. Languages.Programming: <tspan class="highlight">Python, TypeScript, C++, JavaScript</tspan></text>
+    <text x="0" y="132" class="label">. Languages.Computer: .. <tspan class="text">HTML, CSS, SQL, JSON, LaTeX, YAML</tspan></text>
+    <text x="0" y="152" class="label">. Languages.Real: ....... <tspan class="text">English, Hindi</tspan></text>
 
     <!-- Hobbies & Interests -->
-    <text x="0" y="202" class="label">. Hobbies.Software: ..... <tspan class="text">RAG Systems, AI Study Agents, Web3</tspan></text>
-    <text x="0" y="222" class="label">. Hobbies.OpenSource: ... <tspan class="text">Rocket.Chat, Kubernetes, Gemini CLI</tspan></text>
+    <text x="0" y="182" class="label">. Hobbies.Software: ..... <tspan class="text">Multi-Agent Systems, RAG, Web3</tspan></text>
+    <text x="0" y="202" class="label">. Hobbies.Hardware: ..... <tspan class="text">Robotics, Embedded Systems, RISC-V</tspan></text>
 
     <!-- Contact Section -->
-    <text x="0" y="252" class="header">- Contact <tspan class="dash">----------------------------------------------</tspan></text>
-    <text x="0" y="274" class="label">. LinkedIn: <tspan class="highlight">............. linkedin.com/in/ayush-mahajan</tspan></text>
-    <text x="0" y="294" class="label">. GitHub: <tspan class="highlight">............... github.com/Ayush-AM</tspan></text>
-    <text x="0" y="314" class="label">. Focus: <tspan class="text">................ Autonomous AI Agents &amp; RAG Systems</tspan></text>
+    <text x="0" y="232" class="header">- Contact <tspan class="dash">----------------------------------------------</tspan></text>
+    <text x="0" y="254" class="label">. LinkedIn: <tspan class="highlight">............. linkedin.com/in/ayush-mahajan</tspan></text>
+    <text x="0" y="274" class="label">. GitHub: <tspan class="highlight">............... github.com/Ayush-AM</tspan></text>
+    <text x="0" y="294" class="label">. Focus: <tspan class="text">................ Autonomous AI Agents &amp; Systems</tspan></text>
 
     <!-- GitHub Stats Section -->
-    <text x="0" y="344" class="header">- GitHub Stats <tspan class="dash">-----------------------------------------</tspan></text>
-    <text x="0" y="366" class="label">. Repos: <tspan class="text">..... 30+ &#123;Contributed: 10+&#125; | Flagship: 6</tspan></text>
-    <text x="0" y="386" class="label">. Lines of Code on GitHub: <tspan class="text">150,000+ ( </tspan><tspan class="green">185,420++</tspan><tspan class="text">, </tspan><tspan class="red">35,240--</tspan><tspan class="text"> )</tspan></text>
+    <text x="0" y="324" class="header">- GitHub Stats <tspan class="dash">-----------------------------------------</tspan></text>
+    <text x="0" y="346" class="label">. Repos: <tspan class="text">..... 31 &#123;Contributed: 10+&#125; | Stars: ......... 12</tspan></text>
+    <text x="0" y="366" class="label">. Commits: <tspan class="text">................ 500+ | Followers: ........ 15</tspan></text>
+    <text x="0" y="386" class="label">. Lines of Code on GitHub: <tspan class="text">185,420 ( </tspan><tspan class="green">185,420++</tspan><tspan class="text">, </tspan><tspan class="red">35,240--</tspan><tspan class="text"> )</tspan></text>
   </g>
 </svg>
