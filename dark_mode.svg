@@ -1,0 +1,77 @@
+<svg fill="none" width="880" height="460" xmlns="http://www.w3.org/2000/svg">
+  <rect width="880" height="460" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+  
+  <style>
+    .ascii { font-family: 'Consolas', 'Courier New', monospace; font-size: 11px; fill: #e6edf3; font-weight: 500; letter-spacing: -0.5px; }
+    .header { font-family: 'Consolas', 'Fira Code', monospace; font-size: 13px; fill: #58a6ff; font-weight: bold; }
+    .dash { font-family: 'Consolas', monospace; font-size: 13px; fill: #484f58; }
+    .label { font-family: 'Consolas', monospace; font-size: 13px; fill: #d2a8ff; font-weight: 600; }
+    .text { font-family: 'Consolas', monospace; font-size: 13px; fill: #c9d1d9; }
+    .highlight { font-family: 'Consolas', monospace; font-size: 13px; fill: #58a6ff; font-weight: 600; }
+    .green { font-family: 'Consolas', monospace; font-size: 13px; fill: #3fb950; font-weight: 600; }
+    .red { font-family: 'Consolas', monospace; font-size: 13px; fill: #f85149; font-weight: 600; }
+  </style>
+
+  <!-- Left Side: ASCII Portrait -->
+  <text y="20" class="ascii">
+    <tspan x="20" dy="14">              g@M%0%%@N%Nw,,          </tspan>
+<tspan x="20" dy="14">          ,M*`|`%gNM=]mM%g||%N,       </tspan>
+<tspan x="20" dy="14">          p!`  ' !''' '|jhlj%w        </tspan>
+<tspan x="20" dy="14">        ,@L             ' !|j%M]M     </tspan>
+<tspan x="20" dy="14">       ]j``  ,.wp@pW,       ' |%Wg    </tspan>
+<tspan x="20" dy="14">      /{\|]]]]@@@@@@@@pp.      |||||   </tspan>
+<tspan x="20" dy="14">        ']@@@@@@@@@@@@@@@p             </tspan>
+<tspan x="20" dy="14">       :]%%@@@@%%%%%kk%h '*||mkr   *  </tspan>
+<tspan x="20" dy="14">        j%M`    |jkk' ~nrn=|i  `      </tspan>
+<tspan x="20" dy="14">       ! jrr*^         &quot;! L'':!       </tspan>
+<tspan x="20" dy="14">       j lp;,,  ,/ @@   ,;\nmy   ~    </tspan>
+<tspan x="20" dy="14">      i r @@@mmHM @@@@ ~****M*p, p ;  </tspan>
+<tspan x="20" dy="14">      |]@|@@@HHH]g@M%%%%%h,jmgpmb% j  </tspan>
+<tspan x="20" dy="14">      ;;%%%%k%k@[,.n|;.;j%%k|%k%%',  </tspan>
+<tspan x="20" dy="14">      H|%%k%%%j%k||,,;:j;!!'|ij}]@   </tspan>
+<tspan x="20" dy="14">      &quot;djjmkL,&quot;]] [,,,,,wwxw;|#kjk`   </tspan>
+<tspan x="20" dy="14">        %;%km%%%%M|%%jkkii|||  [      </tspan>
+<tspan x="20" dy="14">         kjj%%kkk1||||||j|||''       </tspan>
+<tspan x="20" dy="14">         |jm%H@@@b%%kmk%i!|,[         </tspan>
+<tspan x="20" dy="14">         @p|j%%%jkk||j*`;j[          </tspan>
+<tspan x="20" dy="14">         ]@@@@g'  ` .  ,;j%k          </tspan>
+<tspan x="20" dy="14">         @@@@@mgmp;,,,;;jj%%k%        </tspan>
+<tspan x="20" dy="14">       . @@@@@@@@%%kgil|jjjj%k%@     </tspan>
+<tspan x="20" dy="14">    .^[' %%%%%HH%b%k{illjjkjj%%%%;   </tspan>
+<tspan x="20" dy="14">    =[` . %HH%%%%%H@gkilljjj%kk%&quot;.  </tspan>
+  </text>
+
+  <!-- Right Side: Neofetch System Information -->
+  <g transform="translate(340, 30)">
+    <!-- Header -->
+    <text x="0" y="0" class="header">ayush@mahajan</text>
+    <text x="110" y="0" class="dash">-------------------------------------------</text>
+
+    <!-- Details -->
+    <text x="0" y="22" class="label">. OS: <tspan class="text">................... Windows 11, Linux, Android</tspan></text>
+    <text x="0" y="42" class="label">. Uptime: <tspan class="text">............... AI Engineer &amp; Full-Stack Dev</tspan></text>
+    <text x="0" y="62" class="label">. Host: <tspan class="text">................. Autonomous Systems &amp; RAG Core</tspan></text>
+    <text x="0" y="82" class="label">. Kernel: <tspan class="text">............... Multi-Agent Network Orchestration</tspan></text>
+    <text x="0" y="102" class="label">. IDE: <tspan class="text">.................. VS Code, Antigravity IDE, PyCharm</tspan></text>
+
+    <!-- Languages -->
+    <text x="0" y="132" class="label">. Languages.Programming: <tspan class="highlight">Python, TypeScript, C++, JavaScript</tspan></text>
+    <text x="0" y="152" class="label">. Languages.Frameworks: .. <tspan class="text">LangChain, FastAPI, React, Flask, Docker</tspan></text>
+    <text x="0" y="172" class="label">. Languages.Real: ....... <tspan class="text">English, Hindi</tspan></text>
+
+    <!-- Hobbies & Interests -->
+    <text x="0" y="202" class="label">. Hobbies.Software: ..... <tspan class="text">RAG Systems, AI Study Agents, Web3</tspan></text>
+    <text x="0" y="222" class="label">. Hobbies.OpenSource: ... <tspan class="text">Rocket.Chat, Kubernetes, Gemini CLI</tspan></text>
+
+    <!-- Contact Section -->
+    <text x="0" y="252" class="header">- Contact <tspan class="dash">----------------------------------------------</tspan></text>
+    <text x="0" y="274" class="label">. LinkedIn: <tspan class="highlight">............. linkedin.com/in/ayush-mahajan</tspan></text>
+    <text x="0" y="294" class="label">. GitHub: <tspan class="highlight">............... github.com/Ayush-AM</tspan></text>
+    <text x="0" y="314" class="label">. Focus: <tspan class="text">................ Autonomous AI Agents &amp; RAG Systems</tspan></text>
+
+    <!-- GitHub Stats Section -->
+    <text x="0" y="344" class="header">- GitHub Stats <tspan class="dash">-----------------------------------------</tspan></text>
+    <text x="0" y="366" class="label">. Repos: <tspan class="text">..... 30+ &#123;Contributed: 10+&#125; | Flagship: 6</tspan></text>
+    <text x="0" y="386" class="label">. Lines of Code on GitHub: <tspan class="text">150,000+ ( </tspan><tspan class="green">185,420++</tspan><tspan class="text">, </tspan><tspan class="red">35,240--</tspan><tspan class="text"> )</tspan></text>
+  </g>
+</svg>
