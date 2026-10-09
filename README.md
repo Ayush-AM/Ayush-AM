@@ -8,8 +8,6 @@
 
 ![ID](./assets/id-dashboard.svg?v=1)
 
-![Connect](./assets/connect.svg?v=1)
-
 <br/>
 
 <!-- Real Clickable Quick Connect Badges -->
